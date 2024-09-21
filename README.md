@@ -27,7 +27,6 @@ Select an empty folder saving ASCII AE waveforms in the sequent popup（Make sur
 
 Finish
 
-![image](https://github.com/user-attachments/assets/78a52c78-9043-4fdf-a1af-1f6bd999f5d2)
 
 
 
