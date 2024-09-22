@@ -19,7 +19,7 @@ Download DTAwfm.py and run it
 
 ![image](https://github.com/user-attachments/assets/27eb37dc-e517-481c-97b3-780a755f1d7e)
 
-Select the DTA file focused in the first popup
+Select the DTA file in the first popup
 
 Select an empty folder saving ASCII AE waveforms in the sequent popup（Make sure the disk has enough space）
 
