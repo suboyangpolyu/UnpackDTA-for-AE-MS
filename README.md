@@ -23,7 +23,9 @@ Select the DTA file in the first popup
 
 Select an empty folder saving ASCII AE waveforms in the sequent popup（Make sure the disk has enough space）
 
-![image](https://github.com/user-attachments/assets/28eca6b4-74b6-489c-ad55-23bdae5cf237)
+![image](https://github.com/user-attachments/assets/d24cdfd7-523d-4a4c-bb9f-400d66ea8bc5)
+
+![image](https://github.com/user-attachments/assets/cd7073ff-c0d1-4a66-b6d2-99a0de512905)
 
 Finish
 
